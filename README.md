@@ -1,9 +1,16 @@
-![Image](images/rovers.gif)
+![Image](images/rovers.jpg)
 # Flutter Bloc Pattern and Mobx State Mangement Apps :boom:
 
 Bloc  Pattern and Mobx Management App are the different State Management which can be used to create states.  BLoC pattern was conceived to allow the reuse of the very same code independently of the platform: web application, mobile application, back-end. So yeah, this pattern was developed aiming to ease the workload on developers end while developing apps for a different platform with the idea of code reusability. Watch the video below to get more insight on the baby steps set by BLoC.
 
+![Image](images/rovers2.jpg)
 
+### Screenshots and Working GIFS:
+
+<img src="images/rovers.gif" height="300em"  width="250em"/> <img src="images/1.jpg" height="300em" width="250em"/> <img src="images/2.jpg" height="300em" width="250em"/><img src="images/3.jpg" height="300em" width="250em"/><img src="images/4.jpg" height="300em" width="250em"/><img src="images/5.jpg" height="300em" width="250em"/><img src="images/6.jpg" height="300em" width="250em"/>
+
+
+ Sorry for the quality of the GIF :pray:
 ### Show some love :heart: and star the repo to support the project
 
 If you had like the project pls hit the star :+1: icon.
